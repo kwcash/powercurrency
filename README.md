@@ -1,0 +1,2 @@
+# powercurrency
+Energy Backed Currency
