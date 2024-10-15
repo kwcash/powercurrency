@@ -1,0 +1,255 @@
+
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="eng">
+  <head>
+    <meta content="8f9ad06a-1e09-49ef-bb22-094898dad5b3" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (4.99.4)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Unknown</text>
+  </docTitle>
+  <navMap>
+    <navPoint class="chapter" id="num_1" playOrder="1">
+      <navLabel>
+        <text>CONTENTS</text>
+      </navLabel>
+      <content src="sections.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_2" playOrder="2">
+      <navLabel>
+        <text>TABLES AND FIGURES</text>
+      </navLabel>
+      <content src="tables.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_3" playOrder="3">
+      <navLabel>
+        <text>INTRODUCTION</text>
+      </navLabel>
+      <content src="intro.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_4" playOrder="4">
+      <navLabel>
+        <text>POWER CURRENCY</text>
+      </navLabel>
+      <content src="powercurrency.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_5" playOrder="5">
+      <navLabel>
+        <text>DOLLARS and FROLLARS</text>
+      </navLabel>
+      <content src="dollars.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_6" playOrder="6">
+      <navLabel>
+        <text>ENGINES, FUELS, ELECTRICITY</text>
+      </navLabel>
+      <content src="enginesfuelelectricity.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_7" playOrder="7">
+      <navLabel>
+        <text>ENGINES</text>
+      </navLabel>
+      <content src="engines.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_8" playOrder="8">
+      <navLabel>
+        <text>FUEL</text>
+      </navLabel>
+      <content src="fuels.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_9" playOrder="9">
+      <navLabel>
+        <text>ELECTRICITY</text>
+      </navLabel>
+      <content src="electricity.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_10" playOrder="10">
+      <navLabel>
+        <text>WANKERS</text>
+      </navLabel>
+      <content src="wankers.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_11" playOrder="11">
+      <navLabel>
+        <text>REPOCRATS</text>
+      </navLabel>
+      <content src="repocrats.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_12" playOrder="12">
+      <navLabel>
+        <text>SLAVERY 2.0</text>
+      </navLabel>
+      <content src="slavery2.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_13" playOrder="13">
+      <navLabel>
+        <text>SMART SURVEILLANCE GRID</text>
+      </navLabel>
+      <content src="smartsurveillancegrid.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_14" playOrder="14">
+      <navLabel>
+        <text>Scenario - Disaster</text>
+      </navLabel>
+      <content src="disasterscenario.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_15" playOrder="15">
+      <navLabel>
+        <text>MOVING POWER PLANTS</text>
+      </navLabel>
+      <content src="movingpowerplants.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_16" playOrder="16">
+      <navLabel>
+        <text>Wind and Cars</text>
+      </navLabel>
+      <content src="windandcars.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_17" playOrder="17">
+      <navLabel>
+        <text>Scenario - Car Dealer</text>
+      </navLabel>
+      <content src="cardealer.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_18" playOrder="18">
+      <navLabel>
+        <text>Truck stop</text>
+      </navLabel>
+      <content src="truckstop.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_19" playOrder="19">
+      <navLabel>
+        <text>PEER TO PEER ELECTRICITY</text>
+      </navLabel>
+      <content src="peertopeer.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_20" playOrder="20">
+      <navLabel>
+        <text>P2P two homes</text>
+      </navLabel>
+      <content src="peertopeer.html#id_Tocp2ptwo"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_21" playOrder="21">
+      <navLabel>
+        <text>P2P street</text>
+      </navLabel>
+      <content src="peertopeer.html#id_Tocp2pstreet"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_22" playOrder="22">
+      <navLabel>
+        <text>P2P neighborhood</text>
+      </navLabel>
+      <content src="peertopeer.html#id_Tocp2plocal"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_23" playOrder="23">
+      <navLabel>
+        <text>P2P Town and Up</text>
+      </navLabel>
+      <content src="peertopeer.html#id_Tocp2parea"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_24" playOrder="24">
+      <navLabel>
+        <text>KW CASH</text>
+      </navLabel>
+      <content src="kwcash.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_25" playOrder="25">
+      <navLabel>
+        <text>Revenue Pricing Model One</text>
+      </navLabel>
+      <content src="kwcash1.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_26" playOrder="26">
+      <navLabel>
+        <text>Revenue Pricing Model Two</text>
+      </navLabel>
+      <content src="kwcash2.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_27" playOrder="27">
+      <navLabel>
+        <text>Revenue Pricing Model Three</text>
+      </navLabel>
+      <content src="kwcash3.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_28" playOrder="28">
+      <navLabel>
+        <text>Superdistribution</text>
+      </navLabel>
+      <content src="superdistribution.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_29" playOrder="29">
+      <navLabel>
+        <text>STATE AND LOCAL SOLUTIONS</text>
+      </navLabel>
+      <content src="localsolutions.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_30" playOrder="30">
+      <navLabel>
+        <text>CHINA’S AMERICAN SYSTEM</text>
+      </navLabel>
+      <content src="americansystem.html"/>
+    
+    <navPoint class="chapter" id="num_32" playOrder="32">
+      <navLabel>
+        <text>Ford and Edison</text>
+      </navLabel>
+      <content src="fordedison.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_33" playOrder="33">
+      <navLabel>
+        <text>ENERGY HOMESTEADS</text>
+      </navLabel>
+      <content src="homesteads.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_34" playOrder="34">
+      <navLabel>
+        <text>TRAINGRID</text>
+      </navLabel>
+      <content src="traingrid.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_35" playOrder="35">
+      <navLabel>
+        <text>POWER ECONOMY</text>
+      </navLabel>
+      <content src="powereconomy.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_36" playOrder="36">
+      <navLabel>
+        <text>Innovation.</text>
+      </navLabel>
+      <content src="innovation.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_37" playOrder="37">
+      <navLabel>
+        <text>ENDNOTES</text>
+      </navLabel>
+      <content src="endnotes.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_38" playOrder="38">
+      <navLabel>
+        <text>ONLINE RESOURCES: GOVERNMENT</text>
+      </navLabel>
+      <content src="government.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_39" playOrder="39">
+      <navLabel>
+        <text>ONLINE RESOURCES: INDUSTRY</text>
+      </navLabel>
+      <content src="industry.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_40" playOrder="40">
+      <navLabel>
+        <text>BIBLIOGRAPHY</text>
+      </navLabel>
+      <content src="bibliography.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_41" playOrder="41">
+      <navLabel>
+        <text>ABOUT THE AUTHOR</text>
+      </navLabel>
+      <content src="aboutauthor.html"/>
+    </navPoint>
+  </navMap>
+</ncx>
